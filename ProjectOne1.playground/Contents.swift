@@ -2,7 +2,6 @@
 
 import UIKit
 
-var str = "Hello, playground"
 
 //variable coding challenge #1
 
@@ -23,6 +22,12 @@ let fahrenheit = " (50-32) "
 var celsius = " 5/9"
 
 var  celsisus = 5/9 * (50-32)
+
+
+
+
+
+
 
 
 
