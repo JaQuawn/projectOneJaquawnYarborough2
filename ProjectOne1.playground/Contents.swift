@@ -2,7 +2,7 @@
 
 import UIKit
 
-
+//code reviewed on 2.19.18
 //variable coding challenge #1
 
 var firstString = " JaQuawn will become a multimillionaire "
